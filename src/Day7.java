@@ -34,7 +34,6 @@ public class Day7 {
 			}
 		}
 		out.println(inOrder);
-		out.print();
 		in.close();
 	}
 	
